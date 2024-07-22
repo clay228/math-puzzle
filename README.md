@@ -2,6 +2,13 @@
 
 This is a Math Puzzle Game built with React, TypeScript, Vite, and Tailwind CSS. The game involves answering arithmetic operations to reveal an image behind. Answers can be dragged to the question fields or answered by clicking on a number underneath the field of operation.
 
+## Installation
+
+To run the project locally, follow these steps:
+
+- Install: `yarn install | npm install`
+- Start the project: `yarn dev | npm run dev`
+
 ## Features
 
 | Feature                                                                                                  | Description                                                    |
