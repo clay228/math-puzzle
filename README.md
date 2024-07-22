@@ -78,4 +78,4 @@ The `AnswerList.tsx` component displays a list of possible answers and supports 
 
 **State Management**: The `useGridState.ts` custom hook manages the state of selected and answered operations.
 
-**Drag-and-Drop**: The drag-and-drop functionality is implemented using the HTML5 Drag and Drop API. The `AnswerList.tsx` component makes the answers draggable, and the `PuzzleGrid.tsx` component handles the drop events and checks the answers.
+**Drag-and-Drop**: The drag-and-drop functionality is implemented using the HTML5 Drag and Drop API. The `AnswerList.tsx` component makes the answers draggable, and the `PuzzleGrid.tsx` component handles the drop events and checks the answers. 
